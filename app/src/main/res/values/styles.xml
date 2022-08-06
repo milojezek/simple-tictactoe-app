@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button_game_board">
+        <item name="android:textSize">60sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="backgroundTint">#4003A9F4</item>
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_marginEnd">5dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:freezesText">true</item>
+
+    </style>
+
+</resources>
